@@ -9,6 +9,6 @@
 
 
 
-
-
-[![Pandas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s)](https://pandas.pydata.org/)
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s" alt="Pandas">
+</a>
