@@ -9,14 +9,17 @@
 
 
 
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s" alt="Pandas">
-</a>
+<div style="display: flex; gap: 10px;">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s" alt="Pandas" width="200" height="90">
+  </a>
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://www.python.org/static/img/python-logo.png" alt="Python">
-</a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="200" height="90">
+  </a>
 
-<a href="[https://geopandas.org/en/stable/" target="_blank">
-  <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="GeoPandas" width="200" height="90">
-</a>
+  <a href="https://geopandas.org/en/stable/" target="_blank">
+    <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="GeoPandas" width="200" height="90">
+  </a>
+</div>
+
