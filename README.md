@@ -18,5 +18,5 @@
 </a>
 
 <a href="[https://geopandas.org/en/stable/" target="_blank">
-  <img src="![image](https://github.com/user-attachments/assets/ce53f828-cf22-430d-97a0-edb896ed896f)" alt="GeoPandas">
+  <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="GeoPandas">
 </a>
