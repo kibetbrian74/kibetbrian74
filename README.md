@@ -16,3 +16,7 @@
 <a href="https://www.python.org/" target="_blank">
   <img src="https://www.python.org/static/img/python-logo.png" alt="Python">
 </a>
+
+<a href="[https://geopandas.org/en/stable/" target="_blank">
+  <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="GeoPandas">
+</a>
