@@ -15,11 +15,11 @@
   </a>
 
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="200" height="90">
+    <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="270" height="90">
   </a>
 
   <a href="https://geopandas.org/en/stable/" target="_blank">
-    <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="GeoPandas" width="200" height="90">
+    <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="GeoPandas" width="270" height="90">
   </a>
 </div>
 
