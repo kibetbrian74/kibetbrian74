@@ -15,14 +15,14 @@
   </a>
 
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="270" height="90">
+    <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="180" height="60">
   </a>
 
   <a href="https://geopandas.org/en/stable/" target="_blank">
-    <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="GeoPandas" width="270" height="90">
+    <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="GeoPandas" width="180" height="60">
   </a>
     <a href="https://zh.wikipedia.org/wiki/w:JavaScript" target = "_blank">
-    <img src="https://img.icons8.com/?size=96&id=108784&format=png", alt="JavaScript", width="270", height="90">
+    <img src="https://img.icons8.com/?size=96&id=108784&format=png", alt="JavaScript", width="180", height="60">
   </a>
 </div>
 
