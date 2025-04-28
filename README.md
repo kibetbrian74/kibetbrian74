@@ -22,7 +22,7 @@
     <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="GeoPandas" width="270" height="90">
   </a>
     <a href="https://zh.wikipedia.org/wiki/w:JavaScript" target = "_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png", alt="JavaScript", width="270", height="90">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png", alt="JavaScript", width="20", height="6">
   </a>
 </div>
 
