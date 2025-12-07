@@ -1,5 +1,5 @@
 - ## 👋 Hi, I’m KibetBrian74
-- 👀 I’m interested in data analytics, earth observation, and using satellite imagery while generating actionable insights for decision-makers and stakeholders.
+- 👀 I’m interested in data analytics, earth observation, and using remote sensing imagery while generating actionable insights for decision-makers and stakeholders.
 - 🌱 I’m currently superb in advanced geospatial data processing, i.e., machine learning, and I explore emerging technologies in remote sensing and GIS.
 - 💞️ I collaborate on projects involving big data analytics, Machine Learning & AI, monitoring & conservation, change detection, land use and land cover mapping, water quality assessment, and more.
 - 📫 Reach me: by Email at bkibetcheuiyot@gmail.com or check me on [LinkedIn](https://www.linkedin.com/in/brian-kibet-425453226/>)
